@@ -1,0 +1,13 @@
+STUDENT_INFO = [6,2,34,"AHMAD",700,True]
+print(STUDENT_INFO)
+print(type(STUDENT_INFO))
+print(type(STUDENT_INFO[1]))
+print(STUDENT_INFO[2])
+STUDENT_INFO.append("lahore")
+print(STUDENT_INFO)
+STUDENT_INFO.insert(1,5.9)
+print(STUDENT_INFO)
+STUDENT_INFO.remove(700)
+print(STUDENT_INFO)
+STUDENT_INFO.pop(6)
+print(STUDENT_INFO)

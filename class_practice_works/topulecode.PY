@@ -1,0 +1,1 @@
+touple_info =(4,5,"ahmad")
